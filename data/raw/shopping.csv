@@ -8,7 +8,7 @@ Customer ID,Age,Gender,Item Purchased,Purchase Amount (USD),Location,Size,Color,
 2591,43.0,Male,Dress,34.07901466832033,California,M,Terra cotta,Fall,5,Standard,No,0,Credit Card,
 3650,29.0,Male,Shorts,23.796438702217987,Minnesota,M,Lavender,Summer,2,Express,No,0,Credit Card,
 3353,25.0,Female,Jacket,31.59500546693233,Washington,M,Mauve,Fall,4,Standard,No,4,Credit Card,Quarterly
-2477,39.0,Female,Shorts,32.374103646420124,Colorado,M,Fuchsia,Summer,NA,Standard,No,3,Credit Card,Bi-Weekly
+2477,39.0,Female,Shorts,32.374103646420124,Colorado,M,Fuchsia,Summer,NA,Standard,No,3,Credit Card,Bi-WeeklyvV
 2075,45.0,Female,Jacket,35.548977999088905,Florida,M,Brown,Winter,NA,Standard,No,10,Credit Card,Monthly
 3278,23.0,Male,Backpack,34.43791821557749,Texas,M,Brown,Winter,NA,Standard,No,2,Credit Card,Monthly
 3341,27.0,Female,Handbag,29.430620176505492,Virginia,XL,Black,Summer,NA,Standard,No,2,Credit Card,Weekly
